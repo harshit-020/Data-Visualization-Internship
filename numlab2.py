@@ -25,7 +25,7 @@ print("Array after multiplying each element by 2:", multiplied_array)
 
 
 
-#write a mumpy program to create a array of 10 zeros,10 ones, and 10 fives
+#write a numpy program to create a array of 10 zeros,10 ones, and 10 fives
 
 zeros_array = np.zeros(10, dtype=int)
 ones_array = np.ones(10, dtype=int)
